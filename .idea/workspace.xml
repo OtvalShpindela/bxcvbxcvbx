@@ -34,6 +34,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1iYSt6DwmQPLBRRNnPh891YxUlY" />
   <component name="ProjectViewState">
@@ -45,6 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -69,5 +71,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1421" y="199" key="SettingsEditor" timestamp="1602158129863">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1421" y="199" key="SettingsEditor/0.30.2560.1050@0.30.2560.1050" timestamp="1602158129863" />
+    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602155219325">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602155219325" />
   </component>
 </project>
