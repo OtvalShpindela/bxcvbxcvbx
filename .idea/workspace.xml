@@ -16,7 +16,12 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a4ab0a4-4e34-4089-bc86-7b0aaa3a1f0e" name="Default Changelist" comment="" />
@@ -34,7 +39,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1iYSt6DwmQPLBRRNnPh891YxUlY" />
   <component name="ProjectViewState">
@@ -46,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -74,13 +78,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1421" y="199" key="SettingsEditor" timestamp="1602158129863">
+    <state x="1700" y="309" key="FileChooserDialogImpl" timestamp="1602159092874">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="1421" y="199" key="SettingsEditor/0.30.2560.1050@0.30.2560.1050" timestamp="1602158129863" />
-    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602155219325">
+    <state x="1700" y="309" key="FileChooserDialogImpl/0.30.2560.1050@0.30.2560.1050" timestamp="1602159092874" />
+    <state x="1421" y="199" key="SettingsEditor" timestamp="1602159104993">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602155219325" />
+    <state x="1421" y="199" key="SettingsEditor/0.30.2560.1050@0.30.2560.1050" timestamp="1602159104993" />
+    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602159044409">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602159044409" />
   </component>
 </project>
