@@ -19,12 +19,17 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a4ab0a4-4e34-4089-bc86-7b0aaa3a1f0e" name="Default Changelist" comment="egrgs" />
+    <list default="true" id="1a4ab0a4-4e34-4089-bc86-7b0aaa3a1f0e" name="Default Changelist" comment="egrgs">
+      <change afterPath="$PROJECT_DIR$/init.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602242611893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="egrgs">
+      <created>1602242835438</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602242835438</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,10 +119,10 @@
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
     <state x="1421" y="199" key="SettingsEditor/0.30.2560.1050@0.30.2560.1050" timestamp="1602242125594" />
-    <state x="1512" y="291" key="Vcs.Push.Dialog.v2" timestamp="1602242662274">
+    <state x="1512" y="291" key="Vcs.Push.Dialog.v2" timestamp="1602242869808">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="1512" y="291" key="Vcs.Push.Dialog.v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602242662274" />
+    <state x="1512" y="291" key="Vcs.Push.Dialog.v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602242869808" />
     <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602242823140">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
