@@ -24,9 +24,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a4ab0a4-4e34-4089-bc86-7b0aaa3a1f0e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1a4ab0a4-4e34-4089-bc86-7b0aaa3a1f0e" name="Default Changelist" comment="egrgs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602083243659</updated>
     </task>
+    <task id="LOCAL-00001" summary="egrgs">
+      <created>1602242611893</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602242611893</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,9 +87,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="egrgs" />
+    <option name="LAST_COMMIT_MESSAGE" value="egrgs" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1374" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602242756736">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1374" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1602242756736" />
     <state x="1700" y="309" key="FileChooserDialogImpl" timestamp="1602242247019">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
@@ -96,10 +107,18 @@
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
     <state x="1421" y="199" key="SettingsEditor/0.30.2560.1050@0.30.2560.1050" timestamp="1602242125594" />
-    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602159107556">
+    <state x="1512" y="291" key="Vcs.Push.Dialog.v2" timestamp="1602242662274">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602159107556" />
+    <state x="1512" y="291" key="Vcs.Push.Dialog.v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602242662274" />
+    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602242823140">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602242823140" />
+    <state x="1639" y="346" key="git4idea.merge.GitPullDialog" timestamp="1602242527676">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1639" y="346" key="git4idea.merge.GitPullDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1602242527676" />
     <state x="1718" y="449" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602242490617">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
