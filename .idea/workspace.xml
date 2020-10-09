@@ -82,13 +82,17 @@
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
     <state x="1700" y="309" key="FileChooserDialogImpl/0.30.2560.1050@0.30.2560.1050" timestamp="1602159092874" />
-    <state x="1421" y="199" key="SettingsEditor" timestamp="1602159104993">
+    <state x="1798" y="452" key="Github.ShareDialog" timestamp="1602159245898">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="1421" y="199" key="SettingsEditor/0.30.2560.1050@0.30.2560.1050" timestamp="1602159104993" />
-    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602159044409">
+    <state x="1798" y="452" key="Github.ShareDialog/0.30.2560.1050@0.30.2560.1050" timestamp="1602159245898" />
+    <state x="1421" y="199" key="SettingsEditor" timestamp="1602159186263">
       <screen x="0" y="30" width="2560" height="1050" />
     </state>
-    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602159044409" />
+    <state x="1421" y="199" key="SettingsEditor/0.30.2560.1050@0.30.2560.1050" timestamp="1602159186263" />
+    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602159107556">
+      <screen x="0" y="30" width="2560" height="1050" />
+    </state>
+    <state x="1729" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.2560.1050@0.30.2560.1050" timestamp="1602159107556" />
   </component>
 </project>
